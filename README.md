@@ -12,4 +12,4 @@
    <li>CSS</li>
 </ul>
 
-<h2 align="center"><a href="https://willianprof.github.io/My-gallery-devChallenges/">Demo</a></h2> 
+<h2 align="center"><a href="https://yellowmoonastronaut.github.io/My-gallery-devChallenges/">Demo</a></h2> 
